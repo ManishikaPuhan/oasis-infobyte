@@ -20,4 +20,4 @@ To view or modify the landing page:
 
 1. **Clone this repository** to your local machine:
    ```bash
-   git clone https://github.com/ManishikaPuhan/oasis-infobyte/blob/main/README.md
+   git clone https://github.com/ManishikaPuhan/oasis-infobyte.git
